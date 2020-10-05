@@ -1,2 +1,2 @@
-# website
-Distributed ledger technologies and decentralized databases with byzantine-fault tolerance.
+# services
+public services hosted and provided by @byz-f.
